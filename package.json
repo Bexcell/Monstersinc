@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://Bexcell.github.io/Monstersinc",
   "dependencies": {
+    "heroku": "^7.33.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
